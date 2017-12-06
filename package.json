@@ -1,0 +1,19 @@
+{
+  "name": "altaultimate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisMyers7/altaultimate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisMyers7/altaultimate/issues"
+  },
+  "homepage": "https://github.com/ChrisMyers7/altaultimate#readme"
+}
